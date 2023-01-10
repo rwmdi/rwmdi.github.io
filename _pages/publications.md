@@ -25,8 +25,8 @@ ___
 Other research works I partook in are listed below:
 
 
-* H. Dahrouj, *R. Alghamdi**, <i>et al.</i>, "Intelligent Surfaces for 6G Wireless Networks: A Survey of Optimization and Performance Analysis Techniques," in IEEE Access, vol. 9, 2021.  <a href="https://arxiv.org/abs/2006.06541"> Full text online</a>
-* A. Faisal, *R. Alghamdi**, <i>et al.</i>, "Diversity Schemes in Multi-hop Visible Light Communications for 6G Networks," in Procedia Computer Science, 2021.  <a href="https://doi.org/10.1016/j.procs.2021.02.019."> Full text online</a>
+* H. Dahrouj, **R. Alghamdi**, <i>et al.</i>, "Intelligent Surfaces for 6G Wireless Networks: A Survey of Optimization and Performance Analysis Techniques," in IEEE Access, vol. 9, 2021.  <a href="https://arxiv.org/abs/2006.06541"> Full text online</a>
+* A. Faisal, **R. Alghamdi**, <i>et al.</i>, "Diversity Schemes in Multi-hop Visible Light Communications for 6G Networks," in Procedia Computer Science, 2021.  <a href="https://doi.org/10.1016/j.procs.2021.02.019."> Full text online</a>
 
 * **R. Alghamdi**, <i>et al.</i>, "Intelligent Surfaces for 6G Wireless Networks: A Survey of Optimization and Performance Analysis Techniques," in IEEE Access, vol. 8, 2020.   <a href="https://arxiv.org/abs/2006.06541"> Full text online</a>
 
