@@ -12,7 +12,7 @@ These works provide an overview of my research in underwater wireless communicat
 
 * **R. Alghamdi**, H. Dahrouj, T. Y. Al-Naffouri and  M-S. Alouini, "Toward Immersive Underwater Cloud-Enabled Networks: Prospects and Challenges," Accepted at IEEE BITS the Information Theory Magazine. 
 
-*  **R. Alghamdi**, N. Saeed, H. Dahrouj, and T. Y. Al-Naffouri, "Towards Ultra-Reliable Low-Latency Underwater Optical Wireless Communications," in Proceedings of IEEE 90th Vehicular Technology Conference (VTC2019-Fall), Honolulu, HI, USA, 2019. Full text available at  <a href="https://ieeexplore.ieee.org/document/8891506">
+*  **R. Alghamdi**, N. Saeed, H. Dahrouj, and T. Y. Al-Naffouri, "Towards Ultra-Reliable Low-Latency Underwater Optical Wireless Communications," in Proceedings of IEEE 90th Vehicular Technology Conference (VTC2019-Fall), Honolulu, HI, USA, 2019.   <a href="https://ieeexplore.ieee.org/document/8891506">Full text online</a>
 
 ## Non-Terrestrial Networks
 ___
@@ -25,10 +25,10 @@ ___
 Other research works I partook in are listed below:
 
 
-* H. Dahrouj, *R. Alghamdi**, <i>et al.</i>, "Intelligent Surfaces for 6G Wireless Networks: A Survey of Optimization and Performance Analysis Techniques," in IEEE Access, vol. 9, 2021.  Full text available at  <a href="https://arxiv.org/abs/2006.06541">
-* A. Faisal, *R. Alghamdi**, <i>et al.</i>, "Diversity Schemes in Multi-hop Visible Light Communications for 6G Networks," in Procedia Computer Science, 2021. Full text available at  <a href="https://doi.org/10.1016/j.procs.2021.02.019.">
+* H. Dahrouj, *R. Alghamdi**, <i>et al.</i>, "Intelligent Surfaces for 6G Wireless Networks: A Survey of Optimization and Performance Analysis Techniques," in IEEE Access, vol. 9, 2021.  <a href="https://arxiv.org/abs/2006.06541"> Full text online</a>
+* A. Faisal, *R. Alghamdi**, <i>et al.</i>, "Diversity Schemes in Multi-hop Visible Light Communications for 6G Networks," in Procedia Computer Science, 2021.  <a href="https://doi.org/10.1016/j.procs.2021.02.019."> Full text online</a>
 
-* **R. Alghamdi**, <i>et al.</i>, "Intelligent Surfaces for 6G Wireless Networks: A Survey of Optimization and Performance Analysis Techniques," in IEEE Access, vol. 8, 2020. Full text available at  <a href="https://arxiv.org/abs/2006.06541">
+* **R. Alghamdi**, <i>et al.</i>, "Intelligent Surfaces for 6G Wireless Networks: A Survey of Optimization and Performance Analysis Techniques," in IEEE Access, vol. 8, 2020.   <a href="https://arxiv.org/abs/2006.06541"> Full text online</a>
 
 
 <!-- {% if author.googlescholar %}
