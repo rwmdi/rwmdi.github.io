@@ -10,7 +10,7 @@ ___
 These works provide an overview of my research in underwater wireless communication networks, which I partially worked on during my undergraduate studies, and again as a Ph.D. student at KAUST. d applied machine learning techniques for planetary science.
 
 
-* **R. Alghamdi**, H. Dahrouj, T. Y. Al-Naffouri and  M-S. Alouini, "Toward Immersive Underwater Cloud-Enabled Networks: Prospects and Challenges," Accepted at IEEE BITS the Information Theory Magazine. 
+* **R. Alghamdi**, H. Dahrouj, T. Y. Al-Naffouri and  M-S. Alouini, "Toward Immersive Underwater Cloud-Enabled Networks: Prospects and Challenges," under review at IEEE BITS the Information Theory Magazine. 
 
 *  **R. Alghamdi**, N. Saeed, H. Dahrouj, and T. Y. Al-Naffouri, "Towards Ultra-Reliable Low-Latency Underwater Optical Wireless Communications," in Proceedings of IEEE 90th Vehicular Technology Conference (VTC2019-Fall), Honolulu, HI, USA, 2019.   <a href="https://ieeexplore.ieee.org/document/8891506">Full text online</a>
 
