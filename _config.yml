@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Rawan / Alghamdi"
+title                    : "Rawan Alghamdi"
 title_separator          : "-"
 name                     : &name "Rawan"
 description              : &description "Electrical and Computer Engineering PhD Student at KAUST"
